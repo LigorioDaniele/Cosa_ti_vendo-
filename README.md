@@ -3,7 +3,7 @@
 ### Frequent-Pattern
 Association Rule Mining è utile quando si desidera trovare un'associazione tra diversi elementi, trovare pattern frequenti in un data warehouse, datalake o qualsiasi altro repository che contiene le informazioni che ci servono.
 
-Di seguito alcuni concetti chiave mediante l'utilizzo prodotti comuni per una più semplice interpretazione:
+Di seguito alcuni concetti chiave mediante l'utilizzo di prodotti comuni per una più semplice interpretazione:
 
 **1.** Support: è la popolarità di un prodotto/servizio. Il supporto dell'articolo A non è altro che il rapporto tra le transazioni che coinvolgono A rispetto al numero totale di transazioni.
 
